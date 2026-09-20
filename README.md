@@ -52,11 +52,11 @@ I will also run a revision session in the **final tutorial of the term**, and up
 4. For weak areas, use `Practice Questions/` and the LeetCode list.
 
 If you only read solutions, improvement will be slow.
-If you *try → compare → redo*, improvement will be fast.
+If you *try -> compare -> redo*, improvement will be fast.
 
 ---
 
-## Tutorial Sessions (2026 T1)
+## Tutorial Sessions (2026 T3)
 
 You can find me in the following tutorials:
 
